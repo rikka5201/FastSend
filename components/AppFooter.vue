@@ -7,8 +7,8 @@
         class="underline hover:text-sky-500"
         >Github</a
       >
-      <div class="w-[1px] h-4 bg-neutral-500/80 mx-2"></div>
-      <span>fastsend.ing</span>
+      <!-- <div class="w-[1px] h-4 bg-neutral-500/80 mx-2"></div>
+      <span>fastsend.ing</span> -->
       <div class="w-[1px] h-4 bg-neutral-500/80 mx-2"></div>
       <span>v0.5.9</span>
     </div>

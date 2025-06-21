@@ -1,3 +1,3 @@
 export default function useConfirmDefault() {
-  return useState('isConfirmDefault', () => false)
+  return useState('isConfirmDefault', () => true)
 }

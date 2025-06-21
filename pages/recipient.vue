@@ -782,11 +782,11 @@ onUnmounted(() => {
 
           <div v-if="status.isDone" class="py-6">
             <!-- buy me coffee -->
-            <NuxtLink to="https://www.buymeacoffee.com/shouchen" target="_blank">
+            <!-- <NuxtLink to="https://www.buymeacoffee.com/shouchen" target="_blank">
               <Button rounded outlined severity="contrast" class="w-full tracking-wider"
                 ><IconCoffee class="size-[1.125rem] mr-2" />{{ $t('btn.buyMeCoffee') }}</Button
               >
-            </NuxtLink>
+            </NuxtLink> -->
 
             <!-- 回主页 -->
             <NuxtLink :to="localePath('/')">
