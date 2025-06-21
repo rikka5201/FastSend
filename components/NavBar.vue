@@ -183,11 +183,11 @@ onMounted(() => {
     </Popover>
 
     <div class="contents">
-      <NuxtLink to="https://www.buymeacoffee.com/shouchen" target="_blank" class="ml-2 md:ml-4">
+      <!-- <NuxtLink to="https://www.buymeacoffee.com/shouchen" target="_blank" class="ml-2 md:ml-4">
         <Button severity="warning" text size="small" class="py-3" aria-label="Buy Me A Coffee">
           <IconCoffee class="size-5 text-black dark:text-white/90" />
         </Button>
-      </NuxtLink>
+      </NuxtLink> -->
 
       <Button
         severity="secondary"
