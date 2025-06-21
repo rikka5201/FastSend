@@ -67,6 +67,7 @@ docker run -d --name fastsend -p 3000:3000 fastsend
 将项目拉取到本地，然后运行：
 
 ```bash
+docker-compose build 仅构建镜像
 docker-compose up -d
 ```
 
